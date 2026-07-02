@@ -6,7 +6,7 @@
 #
 # Schema mirrors per-repo .github/metadata.yaml. Read by social-preview.sh.
 
-description: "Swift implementation of the RISC-V instruction set architecture — part of the Swift Institute ecosystem."
+description: "Swift implementation of the RISC-V instruction set architecture."
 homepage: "https://swift-institute.org"
 
 socialPreview:
