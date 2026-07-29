@@ -8,15 +8,9 @@ This organization hosts a single package, following the same discipline as every
 
 > Swift RISC-V is an independent open-source project. It is not affiliated with, endorsed by, or sponsored by RISC-V International.
 
-## Coverage
+Browse the organization's [repositories](https://github.com/swift-riscv?tab=repositories) for current package locations.
 
-| Package | Specification |
-|---|---|
-| RISC-V package — pending publication (no public repository yet) | RISC-V ISA reference |
-
-## Status
-
-Public alpha. Maintained by [Coen ten Thije Boonkkamp](https://github.com/coenttb) — contributions welcome via pull request.
+Contributions are welcome via pull request.
 
 ## License
 
