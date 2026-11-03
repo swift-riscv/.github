@@ -21,6 +21,6 @@ org:
   name: "Swift RISC-V"
   description: "Swift implementation of the RISC-V instruction set architecture — part of the Swift Institute ecosystem."
   email: "coen@coenttb.com"
-  blog: "https://swift-institute.org"
+  blog: "https://github.com/swift-institute"
   twitter: "coenttb"
   location: "Netherlands"
